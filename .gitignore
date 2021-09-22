@@ -1,3 +1,10 @@
+# maven
+target/
+dependency-reduced-pom.xml
+
+# Mac filesystem dust
+.DS_Store/
+
 # Compiled class file
 *.class
 
